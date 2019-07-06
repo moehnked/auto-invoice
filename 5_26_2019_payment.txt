@@ -1,0 +1,10 @@
+bill for Dalton Moehnke
+Wed Jun 26 15:54:34 2019
+
+------------------
+time worked: 4 hours and 22 minutes
+rate: 17
+earned: 68.6
+ammount payed: 60.000000
+
+------------------
